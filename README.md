@@ -12,8 +12,7 @@ API account/role checks and existing business validation are retained.
 4. Open public/setup_admin.php once to seed demo accounts and data.
 5. Open public/login.php. Demo credentials remain shown on that page.
 
-This is a deliberately non-secure coursework build. Use synthetic data in a local lab.
-The removed audit feature is not available in this version.
+A deliberately non-secure coursework build done to show comparasion. The removed audit feature is not available in this versionb.
 
 ## Validation
 Static checks confirmed local PHP require paths resolve and removed helper references are absent.
