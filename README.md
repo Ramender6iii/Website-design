@@ -1,8 +1,7 @@
-# Basic Non-secure Car Rental Coursework Build
+# Basic Non-secure and secure Car Rental Coursework Build
 
 Folders: public (pages/assets), api (JSON endpoints), config (database), sql (schema).
 common.php contains the shared login and layout helpers used by the pages.
-The unused includes folder, audit helper/table/display, mail configuration and inactive CSRF helpers have been removed.
 Basic login, dashboard, administration, operations and reports are retained.
 API account/role checks and existing business validation are retained.
 
